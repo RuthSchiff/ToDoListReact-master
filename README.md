@@ -57,9 +57,9 @@ Project Structure
 ## שיבוט המאגר: git clone https://github.com/RuthSchiff/ToDoListReact-master.git
 ## נווט לתיקיית הפרויקט: cd ToDoListReact-master
 ## התקנת התלויות: npm install
-# שימוש
-### הפעלת שרת הפיתוח: npm start
-#### פתח את הדפדפן ונווט ל-http://localhost:3000.
+## שימוש
+#### הפעלת שרת הפיתוח: npm start
+##### פתח את הדפדפן ונווט ל-http://localhost:3000.
 ## מבנה הפרויקט
 ###### public/:HTML ו-CSS - מכיל קבצים סטטיים כמו תבנית ה
 ###### src/: מכיל את קוד המקור של האפליקציה.
