@@ -54,9 +54,9 @@ Project Structure
 ###### מחיקת משימות
 ###### עיצוב רספונסיבי
 #### התקנה
-## שיבוט המאגר: git clone https://github.com/RuthSchiff/ToDoListReact-master.git
-## נווט לתיקיית הפרויקט: cd ToDoListReact-master
-## התקנת התלויות: npm install
+#### שיבוט המאגר: git clone https://github.com/RuthSchiff/ToDoListReact-master.git
+#### נווט לתיקיית הפרויקט: cd ToDoListReact-master
+#### התקנת התלויות: npm install
 ## שימוש
 #### הפעלת שרת הפיתוח: npm start
 ##### פתח את הדפדפן ונווט ל-http://localhost:3000.
